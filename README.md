@@ -23,4 +23,4 @@
        { "value" : 1.00, "currency" : "JPY" },
        { "value" : 1.00, "currency" : "EUR" }
        		]
-       }'```
+       }'
